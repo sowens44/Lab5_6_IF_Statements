@@ -4,18 +4,6 @@ namespace Lab5_6_IF_Statements
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
-using System;
-
-namespace Lab5_6_IF_Statements
-{
-    class Program
-    {
         struct Customer
         {
             public enum MembershipType
